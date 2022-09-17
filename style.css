@@ -1,0 +1,60 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+.display_name_with_commas
+{
+	border: 1px solid green;
+    padding: 10px;
+	background-color: greenyellow;
+	border-radius: 10px;
+    width: 50%;
+}
+
+#display_name_without_commas
+{
+	border: 1px solid red;
+    padding: 10px;
+    background-color: lightcoral;
+	border-radius: 10px;
+    width: 50%;
+}
+
+body{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image: url(https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg);
+}
+button{
+	border-radius: 15px;
+	padding: 10px;
+	width: 100px;
+	background-color: aliceblue;
+}
+
+input{
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	background-color: white;
+}
+
+#fooddiv{
+		background-color: blanchedalmond;
+	}
+
+#guestdiv{
+	background-color: lavender;
+}
+
